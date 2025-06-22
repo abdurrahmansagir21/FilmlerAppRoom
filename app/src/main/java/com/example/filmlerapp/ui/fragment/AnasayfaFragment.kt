@@ -14,8 +14,9 @@ import com.example.filmlerapp.data.entity.Filmler
 import com.example.filmlerapp.databinding.FragmentAnasayfaBinding
 import com.example.filmlerapp.ui.adapter.FilmlerAdapter
 import com.example.filmlerapp.ui.viewmodel.AnasayfaViewModel
+import dagger.hilt.android.AndroidEntryPoint
 
-
+@AndroidEntryPoint
 class AnasayfaFragment : Fragment() {
 
     private lateinit var binding: FragmentAnasayfaBinding
