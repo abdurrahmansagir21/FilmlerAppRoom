@@ -1,5 +1,6 @@
 # FİLMLER UYGULAMASI (ROOM)
 
+Bu proje, Udemy platformunda yer alan Kasım Adalan'ın "Android Bootcamp Programı | Kotlin | 2025" adlı eğitim setinin bir parçası olarak geliştirilmiştir.
 Bu proje, modern Android geliştirme prensipleri kullanılarak geliştirilmiş bir **film kataloğu uygulamasıdır**.
 Uygulama, filmleri bir ana sayfada listeler ve kullanıcı bir filme tıkladığında o filmin detaylarını gösterir.
 
@@ -66,6 +67,7 @@ git clone https://github.com/abdurrahmansagir21/FilmlerAppRoom.git
 
 # MOVIES APP (ROOM)
 
+This project was developed as part of the "Android Bootcamp Program | Kotlin | 2025" course by instructor Kasım Adalan on the Udemy platform.
 This project is a **movie catalog application** developed using modern Android development principles.
 The app lists movies on a homepage and displays the details of a movie when the user clicks on it.
 
